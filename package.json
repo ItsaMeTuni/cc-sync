@@ -1,0 +1,15 @@
+{
+  "name": "cc-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sync-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.4.3",
+    "ws": "^7.4.1"
+  }
+}
